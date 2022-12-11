@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="220" prefWidth="800" xmlns:fx="http://javafx.com/fxml" fx:controller="inci.us.mangala.FXMLController">
+    <children>
+        <Label layoutX="0" layoutY="0" minHeight="200" minWidth="100" text="0" alignment="BASELINE_CENTER" fx:id="label1" />
+        <Button layoutX="100" layoutY="0" minHeight="100" minWidth="100" text="4" alignment="BASELINE_CENTER" onAction="#handleButtonAction" fx:id="button16" />
+        <Button layoutX="200" layoutY="0" minHeight="100" minWidth="100" text="4" alignment="BASELINE_CENTER" onAction="#handleButtonAction" fx:id="button15" />
+        <Button layoutX="300" layoutY="0" minHeight="100" minWidth="100" text="4" alignment="BASELINE_CENTER" onAction="#handleButtonAction" fx:id="button14" />
+        <Button layoutX="400" layoutY="0" minHeight="100" minWidth="100" text="4" alignment="BASELINE_CENTER" onAction="#handleButtonAction" fx:id="button13" />
+        <Button layoutX="500" layoutY="0" minHeight="100" minWidth="100" text="4" alignment="BASELINE_CENTER" onAction="#handleButtonAction" fx:id="button12" />
+        <Button layoutX="600" layoutY="0" minHeight="100" minWidth="100" text="4" alignment="BASELINE_CENTER" onAction="#handleButtonAction" fx:id="button11" />
+        <Button layoutX="600" layoutY="100" minHeight="100" minWidth="100" text="4" alignment="BASELINE_CENTER" onAction="#handleButtonAction" fx:id="button26" />
+        <Button layoutX="500" layoutY="100" minHeight="100" minWidth="100" text="4" alignment="BASELINE_CENTER" onAction="#handleButtonAction" fx:id="button25" />
+        <Button layoutX="400" layoutY="100" minHeight="100" minWidth="100" text="4" alignment="BASELINE_CENTER" onAction="#handleButtonAction" fx:id="button24" />
+        <Button layoutX="300" layoutY="100" minHeight="100" minWidth="100" text="4" alignment="BASELINE_CENTER" onAction="#handleButtonAction" fx:id="button23" />
+        <Button layoutX="200" layoutY="100" minHeight="100" minWidth="100" text="4" alignment="BASELINE_CENTER" onAction="#handleButtonAction" fx:id="button22" />
+        <Button layoutX="100" layoutY="100" minHeight="100" minWidth="100" text="4" alignment="BASELINE_CENTER" onAction="#handleButtonAction" fx:id="button21" />
+        <Label layoutX="700" layoutY="0" minHeight="200" minWidth="100" text="0" alignment="BASELINE_CENTER" fx:id="label2" />
+        <Label layoutX="0" layoutY="200" minHeight="20" minWidth="800" alignment="BASELINE_CENTER" fx:id="bottomlabel" />
+    </children>
+</AnchorPane>
