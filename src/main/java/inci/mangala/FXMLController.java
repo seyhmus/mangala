@@ -1,3 +1,5 @@
+package inci.mangala;
+
 import java.net.URL;
 import java.util.*;
 import java.util.List;
